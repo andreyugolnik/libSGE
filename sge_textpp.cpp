@@ -21,7 +21,7 @@
 #include "sge_surface.h"
 #include "sge_textpp.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <cstdarg>
 #include <cstdlib>
 

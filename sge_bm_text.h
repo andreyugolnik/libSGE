@@ -20,7 +20,7 @@
 
 #include "sge_internal.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 
 /* BF open flags */
 #define SGE_BFTRANSP SGE_FLAG1

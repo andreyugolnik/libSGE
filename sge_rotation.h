@@ -20,7 +20,7 @@
 
 #include "sge_internal.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 
 /* Transformation flags */
 #define SGE_TAA SGE_FLAG1

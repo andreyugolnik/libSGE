@@ -20,7 +20,7 @@
 #include "sge_shape.h"
 #include "sge_misc.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <cstdio>
 #include <cmath>
 

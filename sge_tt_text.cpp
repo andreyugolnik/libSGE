@@ -29,8 +29,8 @@
 #include "sge_tt_text.h"
 #include "sge_textpp.h"
 
-#include <SDL2/SDL.h>
-#include <SDL2/SDL_endian.h>
+#include <SDL.h>
+#include <SDL_endian.h>
 #include <cmath>
 #include <cstdarg>
 #include <cstdlib>

@@ -19,7 +19,7 @@
 #include "sge_surface.h"
 #include "sge_shape.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <cstdio>
 #include <cstring>
 #include <new>

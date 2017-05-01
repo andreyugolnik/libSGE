@@ -23,7 +23,7 @@
 
 #include "sge_internal.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 
 /* Text input flags */
 #define SGE_IBG SGE_FLAG1

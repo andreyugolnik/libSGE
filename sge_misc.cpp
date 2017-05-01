@@ -17,7 +17,7 @@
 
 #include "sge_misc.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <cmath>
 #include <cstdio>
 #include <cstdlib>

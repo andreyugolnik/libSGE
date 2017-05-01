@@ -23,7 +23,7 @@
 #include "sge_primitives.h"
 #include "sge_blib.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 
 #define SWAP(x,y,temp) temp=x;x=y;y=temp
 

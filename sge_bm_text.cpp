@@ -26,7 +26,7 @@
 #include "sge_tt_text.h"
 #include "sge_textpp.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <cmath>
 #include <cstdarg>
 #include <cstring>

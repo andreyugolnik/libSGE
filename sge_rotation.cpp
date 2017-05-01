@@ -19,7 +19,7 @@
 #include "sge_surface.h"
 #include "sge_blib.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <cmath>
 #include <cstdio>
 

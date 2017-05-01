@@ -20,7 +20,7 @@
 
 #include "sge_internal.h"
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 
 #ifdef _SGE_C
 extern "C" {
