@@ -1,10 +1,17 @@
+This is a maintenance and code cleanup.
+- Abs of unsigned values bug fixed.
+- Include SDL path fixed.
+- using namespace std removed.
+
+***
+
 SDL Graphics Extension (SGE)
 ====================================================================================
 http://freshmeat.net/projects/sge/
 http://www.etek.chalmers.se/~e8cal1/sge/index.html
 http://www.digitalfanatics.org/cal/sge/index.html
 
-Author: Anders Lindström - email: cal@swipnet.se
+Author: Anders LindstrÃ¶m - email: cal@swipnet.se
 
 
 1. Intro
@@ -216,4 +223,4 @@ Read the html documentation and study the examples.
 
 
 
-/Anders Lindström - email: cal@swipnet.se
+/Anders LindstrÃ¶m - email: cal@swipnet.se
